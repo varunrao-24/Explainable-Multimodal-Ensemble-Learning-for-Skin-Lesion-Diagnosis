@@ -1,0 +1,2 @@
+# Explainable-Multimodal-Ensemble-Learning-for-Skin-Lesion-Diagnosis
+This multimodal ML system integrates lesion images and clinical data for diagnosis. By combining deep learning for images and ML for structured data via ensemble fusion, it enhances prediction accuracy and reliability. This robust, interpretable framework supports healthcare diagnostics, providing precise results for better clinical decisions.
